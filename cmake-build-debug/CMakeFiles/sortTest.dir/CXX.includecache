@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/AlirezaAshrafi/CLionProjects/sortTest/main.cpp
+iostream
+-
+ctime
+-
+iomanip
+-
+cstdlib
+-
+chrono
+-
+
