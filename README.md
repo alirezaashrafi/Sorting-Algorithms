@@ -11,4 +11,4 @@
 | InsertionSort    | 8.8368  |
 | SelectionSort     | 11.8582   |
 | ExChangeSort    | 31.4496 |
-| BubbleSortBubbleSort   | 38.818   |
+| BubbleSort   | 38.818   | 
