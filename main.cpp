@@ -41,13 +41,13 @@ int main() {
     auto t0 = Time::now();
 
     //MergeSort(arry, 0, SIZE - 1);
-    //QuickSort(arry, SIZE);
-    ExChangeSort(arry,SIZE);
+    QuickSort(arry, SIZE);
+    //ExChangeSort(arry,SIZE);
     //InsertionSort(arry,SIZE);
     //SelectionSort(arry,SIZE);
     //BubbleSort(arry, SIZE);
 
-    printArray(arry, SIZE);
+
     auto t1 = Time::now();
     fsec fs = t1 - t0;
     ms d = std::chrono::duration_cast<ms>(fs);
