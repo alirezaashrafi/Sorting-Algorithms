@@ -15,4 +15,4 @@
 
 
 - [email : alirezaashrafi.ir@gmail.com](alirezaashrafi.ir@gmail.com)
-- Do not forget the star:)⭐️
+- Do not forget to star ⭐️
