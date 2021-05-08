@@ -1,7 +1,7 @@
 
-## This program is for comparing different sorting algorithms <br> The number of sorted numbers is 100 thousand
+# Comparison Sorting Algorithms using C++
+## In this file 6 diffrent algorithms are compared based on a list with 100,000 elements. using C++
 
- #### Do not forget the star:)⭐️
 
 
 |        Algorithm Name        | Time(Second)    |
@@ -14,4 +14,5 @@
 | BubbleSort   | 38.818   | 
 
 
- - [email : alirezaashrafi.pv@gmail.com](alirezaashrafi.pv@gmail.com)
+- [email : alirezaashrafi.ir@gmail.com](alirezaashrafi.ir@gmail.com)
+- Do not forget the star:)⭐️
